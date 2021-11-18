@@ -16,5 +16,3 @@ Run as a node application
 node src/index.js
 ```
 
-## Assignment: 
-Conert & run this as a docker image. 
